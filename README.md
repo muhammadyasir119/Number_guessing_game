@@ -1,0 +1,2 @@
+# Number_guessing_game
+A simple number guessing game in Python using loops and conditions.
