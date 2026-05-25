@@ -11,7 +11,9 @@ A simple command-line game built in Python where the user tries to guess a rando
 - Hints (Too high / Too low)
 - Infinite loop until correct guess
 - Simple and beginner-friendly logic
-
+- Difficulty levels (easy/hard)
+- Limited attempts
+- Replay option
 ---
 
 ## 🛠️ Technologies Used
@@ -23,7 +25,7 @@ A simple command-line game built in Python where the user tries to guess a rando
 ## 📂 Project File
 
 - `number_guessing_game.py`
-
+- `number_guessing_game_advanced.py`
 ---
 
 ## ▶️ How to Run
